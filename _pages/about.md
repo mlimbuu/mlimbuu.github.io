@@ -27,12 +27,15 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- 
 My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I’m also interested in improving generalization and sample efficiency of learning agents, with focus on transfer learning and meta learning to optimize agents adaptibility to new tasks and environments.
 -->
-
-I'm 3rd year Computer Science PhD Student at George Mason University, where I'm advised by [Prof. Dr Xuesu Xiao](https://cs.gmu.edu/~xiao/) at [Robotixx Lab](https://cs.gmu.edu/~xiao/RobotiXX/lab.html) and [Prof. Dr Daigo Shishika](https://shishika.com) at [CRADL Lab](https://www.shishika.com). 
-
+<!-- 
 My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I’m also interested in improving generalization and sample efficiency of learning agents, with focus on transfer learning and meta learning to optimize agents adaptibility to new tasks and environments.
+-->
 
-Previously I worked at [Fusemachines](https://fusemachines.com/) as Software/Devops Engineer. I completed my BS in Electronics and Communication Engineering from Tribhuvan University, Nepal.
+I'm Computer Science PhD Student at George Mason University, where I'm advised by [Prof. Dr Xuesu Xiao](https://cs.gmu.edu/~xiao/) at [Robotixx Lab](https://cs.gmu.edu/~xiao/RobotiXX/lab.html) and [Prof. Dr Daigo Shishika](https://shishika.com) at [CRADL Lab](https://www.shishika.com). 
+My research studies multi-agent decision-making under uncertainty, with a focus on coordination, cooperation, and role allocation in adversarial environments. I am interested in how teams of goal-driven agents can reason about uncertainty, anticipate future conditions, and coordinate their actions effectively when the environment is non-stationary and partially unpredictable. My research is motivated by safety-critical applications such as robot teams, autonomous navigation, and defense-oriented coordination problems, where agents must cooperate reliably despite uncertainty, and robustness and interpretability matter as much as performance.
+
+
+In my previous life, I worked at [Fusemachines](https://fusemachines.com/) as Software/DevOps Engineer. I completed my BS in Electronics and Communication Engineering from Tribhuvan University, Nepal and MS in Computer Science from George Mason University.
 
 
  
