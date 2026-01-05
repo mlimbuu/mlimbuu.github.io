@@ -3,6 +3,38 @@
 
 @string{aps = {American Physical Society,}}
 
+@INPROCEEDINGS{10802227,
+  abbr={IROS 2024},
+  author={Hu, Zechen and Limbu, Manshi and Shishika, Daigo and Xiao, Xuesu and Wang, Xuan},
+  abstract={This paper aims to solve the coordination of a
+team of robots traversing a route in the presence of adversaries
+with random positions. Our goal is to minimize the overall
+cost of the team, which is determined by (i) the accumulated
+risk when robots stay in adversary-impacted zones and (ii) the
+mission completion time. During traversal, robots can reduce
+their speed and act as a ‘guard’ (the slower, the better), which
+will decrease the risks certain adversary incurs. This leads to
+a trade-off between the robots’ guarding behaviors and their
+travel speeds. The formulated problem is highly non-convex
+and cannot be efficiently solved by existing algorithms. Our
+approach includes a theoretical analysis of the robots’ behaviors
+for the single-adversary case. As the scale of the problem
+expands, solving the optimal solution using optimization approaches is challenging, therefore, we employ reinforcement
+learning techniques by developing new encoding and policygenerating methods. Simulations demonstrate that our learning
+methods can efficiently produce team coordination behaviors.
+We discuss the reasoning behind these behaviors and explain
+why they reduce the overall team cost.},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Learning Coordinated Maneuver in Adversarial Environments}, 
+  year={2024},
+  organization={IEEE},
+  selected={true},
+  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
+  pdf={TBAM_IROS_2023_paper.pdf},
+  poster={TBAM_IROS_2023_Poster.pdf},
+  code={https://github.com/RobotiXX/team-coordination},}
+
+
 @INPROCEEDINGS{10610619,
   abbr={ICRA 2024},
   author={Limbu, Manshi and Hu, Zechen and Wang, Xuan and Shishika, Daigo and Xiao, Xuesu},
